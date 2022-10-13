@@ -1,4 +1,4 @@
-name: Concatenate ublacklist subscription
+name: Concatenate
 
 on:
   push:
