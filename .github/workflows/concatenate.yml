@@ -1,0 +1,2 @@
+- name: Concatenate files
+  uses: ftnext/action-concatenate-files@v1.0.1
