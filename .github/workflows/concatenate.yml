@@ -1,0 +1,29 @@
+name: Concatenate ublacklist subscription
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      - id: listup-targets
+        run: |
+          files=$(ls https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt https://raw.githubusercontent.com/levitation-opensource/aliexpress-fake-sites/main/domains_uBlacklist.txt)
+          escaped_files="${files//$'\n'/\ }"
+          echo "::set-output name=files::${escaped_files}"
+      - name: Prepare target file
+        uses: ftnext/action-concatenate-files@main
+        with:
+          sources: ${{ steps.listup-targets.outputs.files }}
+          destination: nicoles-concat-ublacklist.txt
+      - name: Run doctest
+        run: python -m doctest -v example/doctest_target.rst.txt
