@@ -1,0 +1,53 @@
+My filters
+
+# Name        : Nicole's extra filters
+# Version     : 20221113162111
+# Date        : 24/03/23
+# Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
+# File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
+# Total lines : 53
+
+#Needs to be *://*.
+#So first replace *://www. With *://
+#Then replace *:// with *://*.
+
+# tech
+*://*.nstec.com/*
+*://*.lotusrb.org/*
+*://*.infos-geek.com/*
+*://*.fosspc.com/*
+*://*.eehelp.com/*
+*://*.deletingsolutions.com/*
+*://*.windowsphoneinfo.com/*
+*://*.officesetup2013.blogspot.com/*
+*://*.compuhoy.com/*
+ 
+#discount
+*://*.nhsdiscounts.org.uk/*
+*://*.branddiscount.co.uk/*
+*://*.nhsdiscounts.co/*
+*://*.nhsdiscountcode.co.uk/*
+*://*.student-discount.co.uk/*
+*://*.referandsave.co.uk/*
+ 
+#shopping
+*://*.consumer.hotdeals.com/*
+*://*.bestbikeguide.co.uk/
+*://*.uifreebies.net/*
+*://*.rkrx.sneakerbar.shop/*
+*://*.ddaengshop.com/*
+ 
+#others
+*://*.interviewarea.com/*
+*://*.2022.co.id/*
+*://*.fluxdeconnaissances.com/*
+*://*.allfamousbirthday.com/*
+*://*.thenina.com/*
+*://*.bwbjhh.erdosell.pl/*
+*://*.uyfpn.fiur-magazin.de/*
+*://*.leera.it/*
+ 
+#Personal
+*://*.attractiongym.com/*
+
+#Sorting
