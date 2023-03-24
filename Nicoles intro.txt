@@ -1,0 +1,10 @@
+# Name        : Nicole's master filter list
+# Version     : 2
+# Date        : 24/03/23
+# Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
+# File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt
+# Total lines : 
+
+#Needs to be *://*.
+#So first replace *://www. With *://
+#Then replace *:// with *://*.
