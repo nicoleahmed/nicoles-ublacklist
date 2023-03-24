@@ -8,3 +8,4 @@
 #Needs to be *://*.
 #So first replace *://www. With *://
 #Then replace *:// with *://*.
+
