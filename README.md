@@ -10,7 +10,7 @@ You can also subscribe to public rulesets. See tables below and these pages:
       https://github.com/rjaus/awesome-ublacklist  
       https://github.com/eallion/uBlacklist-subscription-compilation (Chinese compilation and master list)  
 
-See [uBlacklist hit hub page](https://github.com/iorate/uBlacklist)
+See [uBlacklist github page](https://github.com/iorate/uBlacklist)
 
 ### Install uBlacklist      
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) / [App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
