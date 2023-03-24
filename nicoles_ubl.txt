@@ -1,9 +1,9 @@
 # Name        : Nicole's extra filters
-# Version     : 6
+# Version     : 7
 # Date        : 24/03/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 52
+# Total lines : 53
 
 #Needs to be *://*.
 #So first replace *://www. With *://
@@ -19,6 +19,7 @@
 *://*.windowsphoneinfo.com/*
 *://*.officesetup2013.blogspot.com/*
 *://*.compuhoy.com/*
+*://*.knowledgehut.com/*
  
 #discount
 *://*.nhsdiscounts.org.uk/*
