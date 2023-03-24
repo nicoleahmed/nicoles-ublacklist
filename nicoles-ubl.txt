@@ -1,11 +1,9 @@
-My filters
-
 # Name        : Nicole's extra filters
-# Version     : 20221113162111
+# Version     : 6
 # Date        : 24/03/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
-# File        : https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/./output/uBlacklist.txt
-# Total lines : 53
+# File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
+# Total lines : 52
 
 #Needs to be *://*.
 #So first replace *://www. With *://
