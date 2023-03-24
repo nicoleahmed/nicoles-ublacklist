@@ -29,6 +29,7 @@ No major sites are blocked by these lists but I can't guarantee that some minor 
 
 
 ## **Subscription lists I use**
+Most of these lists are maintained by individuals - so whilst I have had no impact on functionality you should always check the lists first. If you are more concerned about quickly getting rid of lots of low quality content subscribe away.
 
 | Name | URL | Chrome Link |
 | --- | --- | --- |
