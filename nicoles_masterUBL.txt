@@ -3,11 +3,12 @@
 # Date        : 24/03/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt
-# Total lines : 
+# Total lines : 2015
 
 #Needs to be *://*.
 #So first replace *://www. With *://
 #Then replace *:// with *://*.
+
 *://www.fijet.si/*
 *://advancedmarkets.news/*
 *://si-ja.si/*
