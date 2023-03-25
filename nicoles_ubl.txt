@@ -1,6 +1,6 @@
 # Name        : Nicole's extra filters
-# Version     : 7
-# Date        : 24/03/23
+# Version     : 8
+# Date        : 25/03/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
 # Total lines : 53
@@ -45,7 +45,14 @@
 *://*.bwbjhh.erdosell.pl/*
 *://*.uyfpn.fiur-magazin.de/*
 *://*.leera.it/*
- 
+ *://*.remodelormove.com/*
+*://odurhjyd.bedandbreakfastborsari.it/*
+*://jvmbhl.roomy-wiesbaden.de/*
+*://vreo.fabiosilvestri.it/*
+*://*.ourdailysweeps.com/*
+*://apiexames.fabriciano.mg.gov.br/*
+*://ppdb.kedirikota.go.id/*
+
 #Personal
 *://*.attractiongym.com/*
 
