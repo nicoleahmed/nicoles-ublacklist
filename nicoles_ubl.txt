@@ -3,7 +3,7 @@
 # Date        : 25/03/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 53
+# Total lines : 59
 
 #Needs to be *://*.
 #So first replace *://www. With *://
