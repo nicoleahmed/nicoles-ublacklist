@@ -46,12 +46,12 @@
 *://*.uyfpn.fiur-magazin.de/*
 *://*.leera.it/*
  *://*.remodelormove.com/*
-*://odurhjyd.bedandbreakfastborsari.it/*
-*://jvmbhl.roomy-wiesbaden.de/*
-*://vreo.fabiosilvestri.it/*
+*://*.bedandbreakfastborsari.it/*
+*://*.roomy-wiesbaden.de/*
+*://*.fabiosilvestri.it/*
 *://*.ourdailysweeps.com/*
-*://apiexames.fabriciano.mg.gov.br/*
-*://ppdb.kedirikota.go.id/*
+*://*.fabriciano.mg.gov.br/*
+*://*.kedirikota.go.id/*
 
 #Personal
 *://*.attractiongym.com/*
