@@ -1,13 +1,15 @@
 # Name        : Nicole's extra filters
-# Version     : 8
-# Date        : 25/03/23
+# Version     : 9
+# Date        : 02/04/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
-# File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 59
+# File     (stable)  : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
+# File (beta) : https://get.letsblock.it/list/d5284dc6-593f-4c50-8f2d-879193481e36.txt
+# Total lines : 75
 
 #Needs to be *://*.
 #So first replace *://www. With *://
 #Then replace *:// with *://*.
+#Or option for whole site blocking in ublacklist
 
 # tech
 *://*.nstec.com/*
@@ -52,6 +54,20 @@
 *://*.ourdailysweeps.com/*
 *://*.fabriciano.mg.gov.br/*
 *://*.kedirikota.go.id/*
+
+#Spam
+*://*.hospitalbritanico.org.ar/*
+*://*.marciatravessoni.com.br/*
+*://*.indianjurol.com/*
+*://*.schoolweb.tdsb.on.ca/*
+*://*.ville-rieumes.fr/*
+*://*.my.safariclub.org/*
+*://*.yachiyo.nikke-tennis.jp/*
+*://*.mistore.jp/*
+*://*.en.vietnamplus.vn/*
+*://*.saitou-kk.co.jp/*
+*://*.porteplus.be/*
+*://*.camaracascavel.pr.gov.br/*
 
 #Personal
 *://*.attractiongym.com/*
