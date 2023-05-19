@@ -18,7 +18,7 @@ See [uBlacklist github page](https://github.com/iorate/uBlacklist)
 
 ## Sites which 'should' be blocked from search engines - but aren't on other subscription lists
 These are my personal lists  
-The first is a list of sites not caught by lists I subscribe to below. As I live in the UK, many of these sites wil be United Kingdom domains.  
+The first is a list of sites not caught by lists I subscribe to below. As I live in the UK, many of these sites will be United Kingdom domains.  
 The second is a combination list of all the lists below that has been deduplicated  (May 23: Need to fix the automation) 
 No major sites are blocked by these lists but I can't guarantee that some minor poor quality authentic sites don't get blocked  
 | Name | URL | Chrome Link |
