@@ -60,6 +60,9 @@ I don't use these filter lists, so may not realise if they stop being updated or
 |Rjaus - ublacklist-all pinterest by Riley James|https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20ublacklist-all%20pinterest%20by%20Riley%20James&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt)|
 |Rjaus - yelp sites|https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20yelp%20sites&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt)|
 |Stopmodreposts|https://api.stopmodreposts.org/minecraft/ublacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Stopmodreposts&url=https%3A//api.stopmodreposts.org/minecraft/ublacklist.txt)|
+|Dejavu Moe - Spam |https://raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=DejavuMoe%20-%20Spam&url=https%3A//raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/uBlacklist.txt)|
+|Entr0pia - No other search engines in Google results |
+https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Entr0pia%20-%20other search engines in Google&url=https%3A//raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt)|
 
 
 ## Japanese
@@ -102,7 +105,7 @@ I don't use these filter lists, so may not realise if they stop being updated or
 |Danny 038 - bad cloners|https://danny0838.github.io/content-farm-terminator/files/blocklist/bad-cloners.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Danny%20038%20-%20bad%20cloners&url=https%3A//danny0838.github.io/content-farm-terminator/files/blocklist/bad-cloners.txt)|
 |Bcaso - Chinese results whitelist|https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/whitelists_combined.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bcaso%20-%20Chinese%20results%20whitelist&url=https%3A//raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/whitelists_combined.txt)|
 |Divine engine - junk - content farms - feeb - C&J marketing|https://cdn.jsdelivr.net/gh/DivineEngine/uBlacklist@master/blacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Divine%20engine%20-%20junk%20-%20content%20farms%20-%20feeb%20-%20C%26J%20marketing&url=https%3A//cdn.jsdelivr.net/gh/DivineEngine/uBlacklist%40master/blacklist.txt)|
-
+|Cobalt Disco - Spam - 2 years no updates|https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Cobalt%20Disco%20-%20Spam&url=https%3A//raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt)|
 
 ## Vietnamese
 | Name | URL | Chrome Link |
