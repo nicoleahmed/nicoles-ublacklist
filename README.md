@@ -50,7 +50,7 @@ Most of these lists are maintained by individuals - so whilst I have had no impa
 |Bitesizedlion - spam|https://github.com/BitesizedLion/various-lists/raw/main/ublacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20spam&url=https%3A//github.com/BitesizedLion/various-lists/raw/main/ublacklist.txt)|
 
 ## **Subscription lists for specific sites**
-I don't use these filter lists, so may not realise if they stop being updated or change. Feel free to create an issue for any comments.
+I don't use these filter lists- they may stop being updated or change. Feel free to create an issue for any comments.
 
 | Name | URL | Chrome Link |
 | --- | --- | --- |
@@ -61,8 +61,7 @@ I don't use these filter lists, so may not realise if they stop being updated or
 |Rjaus - yelp sites|https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20yelp%20sites&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt)|
 |Stopmodreposts|https://api.stopmodreposts.org/minecraft/ublacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Stopmodreposts&url=https%3A//api.stopmodreposts.org/minecraft/ublacklist.txt)|
 |Dejavu Moe - Spam |https://raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=DejavuMoe%20-%20Spam&url=https%3A//raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/uBlacklist.txt)|
-|Entr0pia - No other search engines in Google results |
-https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Entr0pia%20-%20other search engines in Google&url=https%3A//raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt)|
+|Entr0pia - No other search engines in Google results |https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Entr0pia%20-%20other search engines in Google&url=https%3A//raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt)|
 
 
 ## Japanese
@@ -81,16 +80,24 @@ https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/mast
 |Parasiticide - Chinese Copies|https://github.com/Chamiu/Search-Block-Parasiticide/raw/master/China%20CopyCat.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Parasiticide%20-%20Chinese%20Copies&url=https%3A//github.com/Chamiu/Search-Block-Parasiticide/raw/master/China%20CopyCat.txt))|
 |Parasiticide - Software Ranking|https://github.com/Chamiu/Search-Block-Parasiticide/raw/master/Ranking.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Parasiticide%20-%20Software%20Ranking&url=https%3A//github.com/Chamiu/Search-Block-Parasiticide/raw/master/Ranking.txt))|
 |Parasiticide - News and spam|https://github.com/Chamiu/Search-Block-Parasiticide/raw/master/Redelivery.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Parasiticide%20-%20News%20Spam&url=https%3A//github.com/Chamiu/Search-Block-Parasiticide/raw/master/Redelivery.txt))|
+|PRiMENON - Spams, clones, proxies|https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=PRiMENON%20-%20Spam%20Clones%20Proxies&url=https%3A//raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt)|
 |Exoego - Useless ranking sites|https://raw.githubusercontent.com/exoego/ublacklist-rankings/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Exoego%20-%20Useless%20ranking%20sites&url=https%3A//raw.githubusercontent.com/exoego/ublacklist-rankings/master/uBlacklist.txt)|
+|Exoego - Fake stores|https://raw.githubusercontent.com/exoego/ublacklist-scam-net-shops/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Exoego%20-%20Useless%20ranking%20sites&url=https%3A//raw.githubusercontent.com/exoego/ublacklist-scam-net-shops/master/uBlacklist.txt)|
 |ncaq|https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=ncaq&url=https%3A//raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt)|
 |108EAA0A - programming-schools|https://raw.githubusercontent.com/108EAA0A/ublacklist-programming-school/main/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=108EAA0A%20-%20programming-schools&url=https%3A//raw.githubusercontent.com/108EAA0A/ublacklist-programming-school/main/uBlacklist.txt)|
 |munierujp - search-result|https://raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=munierujp%20-%20search-result&url=https%3A//raw.githubusercontent.com/munierujp/ublacklist-search-result/master/blacklist.txt)|
 |Kurinkurin - Gm blocker|https://raw.githubusercontent.com/kurinkurin2355/gm-Bloker/master/gm_uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Kurinkurin%20-%20Gm%20blocker&url=https%3A//raw.githubusercontent.com/kurinkurin2355/gm-Bloker/master/gm_uBlacklist.txt)|
 
+## Russian
+| Name | URL | Chrome Link |
+| --- | --- | --- |
+|Salfum - Tech Spam|https://raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Salfum%20-%20Tech%20Spam&url=https%3A//raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt)|
+
 ## Chinese
 | Name | URL | Chrome Link |
 | --- | --- | --- |
 |Eallion|https://raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Eallion&url=https%3A//raw.githubusercontent.com/eallion/uBlacklist-subscription-compilation/main/uBlacklist.txt)|
+|Peeweep - combined and more |https://raw.githubusercontent.com/peeweep/ublacklist/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Entr0pia%20-%20other search engines in Google&url=https%3A//raw.githubusercontent.com/peeweep/ublacklist/master/uBlacklist.txt)|
 |Content farms Misaka mokoto|https://raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/content-farm.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Content%20farms%20Misaka%20mokoto&url=https%3A//raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/content-farm.txt)|
 |bad content - misaka mokotu|https://raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/bad-content.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=bad%20content%20-%20misaka%20mokotu&url=https%3A//raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/bad-content.txt)|
 |Difficult captcha - Misaka Mokotu|https://raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/not-friendly-captcha.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Difficult%20captcha%20-%20Misaka%20Mokotu&url=https%3A//raw.githubusercontent.com/MisakaMikoto-35c5/ublacklist-rules/master/not-friendly-captcha.txt)|
@@ -104,8 +111,11 @@ https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/mast
 |Danny 038 - SNS content farms|https://danny0838.github.io/content-farm-terminator/files/blocklist/sns-content-farms.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Danny%20038%20-%20SNS%20content%20farms&url=https%3A//danny0838.github.io/content-farm-terminator/files/blocklist/sns-content-farms.txt)|
 |Danny 038 - bad cloners|https://danny0838.github.io/content-farm-terminator/files/blocklist/bad-cloners.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Danny%20038%20-%20bad%20cloners&url=https%3A//danny0838.github.io/content-farm-terminator/files/blocklist/bad-cloners.txt)|
 |Bcaso - Chinese results whitelist|https://raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/whitelists_combined.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bcaso%20-%20Chinese%20results%20whitelist&url=https%3A//raw.githubusercontent.com/bcaso/Computer-Science-Whitelist/main/whitelists/whitelists_combined.txt)|
+|Qiamo - Chinese Spam|https://raw.githubusercontent.com/qiaomo/uRules/master/ublacklist/rules.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Qiamo%20-%20Chinese%20Spam&url=https%3A//raw.githubusercontent.com/qiaomo/uRules/master/ublacklist/rules.txt)|
 |Divine engine - junk - content farms - feeb - C&J marketing|https://cdn.jsdelivr.net/gh/DivineEngine/uBlacklist@master/blacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Divine%20engine%20-%20junk%20-%20content%20farms%20-%20feeb%20-%20C%26J%20marketing&url=https%3A//cdn.jsdelivr.net/gh/DivineEngine/uBlacklist%40master/blacklist.txt)|
+|OMES - Content Farms|https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlacklist-Subscription/main/content-farm-sites.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=OMES%20-%20Content%20Farm&url=https%3A//raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlacklist-Subscription/main/content-farm-sites.txt)|
 |Cobalt Disco - Spam - 2 years no updates|https://raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Cobalt%20Disco%20-%20Spam&url=https%3A//raw.githubusercontent.com/cobaltdisco/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt)|
+|Kecrily - Content Farms - 1 year no updates|https://raw.githubusercontent.com/kecrily/anti-content-farm/master/main.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Kecrily%20-%20Content%20Farms&url=https%3A//raw.githubusercontent.com/kecrily/anti-content-farm/master/main.txt)|
 
 ## Vietnamese
 | Name | URL | Chrome Link |
@@ -117,3 +127,5 @@ https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/mast
 | Name | URL | Chrome Link |
 | --- | --- | --- |
 |Caglaryalcin - toxic turkish news sites|https://raw.githubusercontent.com/caglaryalcin/uBlacklist-backup/main/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Caglaryalcin%20-%20toxic%20turkish%20news%20sites&url=https%3A//raw.githubusercontent.com/caglaryalcin/uBlacklist-backup/main/uBlacklist.txt)|
+|Dr Norton - Turkish Spam|https://raw.githubusercontent.com/dr-norton/ublacklist-tr/master/blocklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Dr.Norton%20-%20Turkish%20Spam&url=https%3A//raw.githubusercontent.com/dr-norton/ublacklist-tr/master/blocklist.txt)|
+|Rojenzaman - Turkish Universities|https://raw.githubusercontent.com/rojenzaman/block-turkish-universities/main/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rojenzaman%20-%20Turkish%20Universities&url=https%3A//raw.githubusercontent.com/rojenzaman/block-turkish-universities/main/uBlacklist.txt)|
