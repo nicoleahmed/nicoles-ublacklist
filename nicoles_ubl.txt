@@ -1,10 +1,10 @@
 # Name        : Nicole's extra filters
-# Version     : 11
-# Date        : 19/05/23
+# Version     : 12
+# Date        : 17/08/23
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File     (stable)  : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
 # File (beta) : https://get.letsblock.it/list/d5284dc6-593f-4c50-8f2d-879193481e36.txt
-# Total lines : 107
+# Total lines : 130
 # Description : A mixed list to filter various spam and malicious sites out of search engine results. Some sites are UK-Centric.
 
 #Needs to be *://*.
@@ -35,6 +35,14 @@
 *://*.winsite.com/*
 *://*.wikidll.com/*
 *://*.originaldll.com/*
+*://*.dll-files.com/*
+*://*.dlldump.com/*
+*://cfoc.org/*
+*://sensorstechforum.com/*
+*://zditect.com/*
+*://*.woahtech.com/*
+*://*.enigmasoftware.com/*
+*://*.spywareremove.com/*
  
 #discount
 *://*.nhsdiscounts.org.uk/*
@@ -45,8 +53,7 @@
 *://*.referandsave.co.uk/*
 *://*.game155.com/*
 *://*.autotechint.com/*
-*://*.dll-files.com/*
-*://*.dlldump.com/*
+
 
 #shopping
 *://*.consumer.hotdeals.com/*
@@ -54,8 +61,9 @@
 *://*.uifreebies.net/*
 *://*.rkrx.sneakerbar.shop/*
 *://*.ddaengshop.com/*
+*://*.gearsholic.co.uk/*
  
-#others
+#Spam
 *://*.interviewarea.com/*
 *://*.2022.co.id/*
 *://*.fluxdeconnaissances.com/*
@@ -71,8 +79,6 @@
 *://*.ourdailysweeps.com/*
 *://*.fabriciano.mg.gov.br/*
 *://*.kedirikota.go.id/*
-
-#Spam
 *://*.hospitalbritanico.org.ar/*
 *://*.marciatravessoni.com.br/*
 *://*.indianjurol.com/*
@@ -87,6 +93,11 @@
 *://*.camaracascavel.pr.gov.br/*
 *://*.trendstours.com/*
 *://*.a-reciclar.com/*
+*://*.seniorcare2share.com/*
+*://*.dfm9xhx6qo2ku.cloudfront.net/*
+*://*.prospercapitalco.com/*
+*://*.fantasticdatings.life/*
+*://*.likeabosslearning.com/*
 
 #fake stores
 *://*.kyracatlitter.co.uk/*
@@ -96,6 +107,15 @@
 *://*.charleepetsdeals.co.uk/*
 *://*.marianacattychoice.co.uk/*
 *://*.confidancecompany.co.uk/*
+*://*.applebutterexpress.com/*
+*://*.21cats.org/*
+*://*.hindiprocess.com/*
+*://*.world-today-news.com/*
+*://*.topweedkiller.com/*
+*://*.gardengotime.com/*
+*://moviecultists.com/*
+*://*.landscapergarden.com/*
+*://*.dfm9xhx6qo2ku.cloudfront.net/*
 
 #Personal
 *://*.attractiongym.com/*
@@ -105,3 +125,6 @@
 @*://*.wordpress.com/*
 
 #Sorting
+#certsimple
+#https://www.pcrisk.com/
+#https://www.partitionwizard.com/ but an actual tool
