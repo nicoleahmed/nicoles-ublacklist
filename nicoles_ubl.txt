@@ -1,6 +1,6 @@
 # Name        : Nicole's extra filters
-# Version     : 13
-# Date        : 5/12/23
+# Version     : 14
+# Date        : 6/1/24
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
 # Total lines : 137
@@ -46,6 +46,7 @@
 *://*.malware-guide.com/*
 *://*.2-remove-virus.com/*
 *://*.pcrisk.com/*
+*://*.newsonlineincome.com/*
 
 #bad info
 *://*.causal.app/*
