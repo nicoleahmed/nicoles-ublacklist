@@ -48,6 +48,7 @@ Most of these lists are maintained by individuals - so whilst I have had no impa
 |NSDE- SpamBlacklist|https://raw.githubusercontent.com/nsde/spam-blacklist/main/spam-sites.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=NSDE-%20SpamSites&url=https%3A//raw.githubusercontent.com/nsde/spam-blacklist/main/spam-sites.txt)|
 |Bitesizedlion - fake pngs|https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-fakepng.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20fake%20pngs&url=https%3A//raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-fakepng.txt)|
 |Bitesizedlion - spam|https://github.com/BitesizedLion/various-lists/raw/main/ublacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20spam&url=https%3A//github.com/BitesizedLion/various-lists/raw/main/ublacklist.txt)|
+|Ite Usagi - AI|https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=IteUsagi%20-%20AI&url=https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt)|
 
 ## **Subscription lists for specific sites**
 I don't use these filter lists- they may stop being updated or change. Feel free to create an issue for any comments.
