@@ -55,6 +55,7 @@ Most of these lists are maintained by individuals - so whilst they have not impa
 |ncaq - Content farms, tech, spam|https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt|[Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=ncaq&url=https%3A//raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt)|
 
 
+
 ## **Subscription lists for specific sites**
 I don't use these filter lists- they may stop being updated or change. Feel free to create an issue for any comments.
 
@@ -71,6 +72,7 @@ I don't use these filter lists- they may stop being updated or change. Feel free
 
 
 
+
 ## **AI / Spam images**
 I don't use these filter lists.
 | **Name**                     | **URL**                                                                                     | **Chrome Link**                                                                                                                                                                                   |
@@ -81,7 +83,10 @@ I don't use these filter lists.
 
 
 
-##Subscription lists for specific locales
+
+## Subscription lists for specific locales
+
+
 
 ### Chinese
 | **Name**                                                    | **URL**                                                                                                           | **Chrome Link**                                                                                                                                                                                                                               |
@@ -107,10 +112,13 @@ I don't use these filter lists.
 | Qiamo - Chinese Spam                                        | https://raw.githubusercontent.com/qiaomo/uRules/master/ublacklist/rules.txt                                       | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Qiamo%20-%20Chinese%20Spam&url=https%3A//raw.githubusercontent.com/qiaomo/uRules/master/ublacklist/rules.txt)                                                         |
 | Scyrte                                                      | https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklist.txt                             | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Scyrte&url=https%3A//raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklist.txt)                                                                   |
 
-### Europe
+
+
+### European
 | **Name**                                                    | **URL**                                                                                              | **Chrome Link**                                                                                                                                                                                                        |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Elliotwutingfeng - Spamdexing- Spam, Contentfarms in Europe | https://raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Elliotwutingfeng%20-%20Spamdexing&url=https%3A//raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt)) |
+
 
 
 ### Japanese
@@ -138,6 +146,8 @@ I don't use these filter lists.
 | PRiMENON - Spam, clones, proxies                                                                         | https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt                      | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=PRiMENON%20-%20Spam%20Clones%20Proxies&url=https%3A//raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt)              |
 
 
+
+
 ### Russian
 | **Name**               | **URL**                                                                                              | **Chrome Link**                                                                                                                                                                                              |
 |------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -153,6 +163,9 @@ I don't use these filter lists.
 | Caglaryalcin - toxic turkish news sites | https://raw.githubusercontent.com/caglaryalcin/uBlacklist-backup/main/uBlacklist.txt        | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Caglaryalcin%20-%20toxic%20turkish%20news%20sites&url=https%3A//raw.githubusercontent.com/caglaryalcin/uBlacklist-backup/main/uBlacklist.txt) |
 | Dr Norton - Turkish Spam                | https://raw.githubusercontent.com/dr-norton/ublacklist-tr/master/blocklist.txt              | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Dr.Norton%20-%20Turkish%20Spam&url=https%3A//raw.githubusercontent.com/dr-norton/ublacklist-tr/master/blocklist.txt)                          |
 | Rojenzaman - Turkish Universities       | https://raw.githubusercontent.com/rojenzaman/block-turkish-universities/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rojenzaman%20-%20Turkish%20Universities&url=https%3A//raw.githubusercontent.com/rojenzaman/block-turkish-universities/main/uBlacklist.txt)    |
+
+
+
 
 ### Vietnamese
 | **Name**                      | **URL**                                                                                   | **Chrome Link**                                                                                                                                                                                            |
