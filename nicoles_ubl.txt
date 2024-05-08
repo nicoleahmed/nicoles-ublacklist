@@ -1,9 +1,9 @@
 # Name        : Nicole's extra filters
-# Version     : 14
-# Date        : 6/1/24
+# Version     : 15
+# Date        : 8/5/24
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 137
+# Total lines : 135
 # Description : A mixed list to filter various spam and malicious sites out of search engine results. Some sites are UK-Centric.
 
 #Needs to be *://*.
@@ -47,6 +47,8 @@
 *://*.2-remove-virus.com/*
 *://*.pcrisk.com/*
 *://*.newsonlineincome.com/*
+*://*.certsimple.com/*
+*://*.silicophilic.com/*
 
 #bad info
 *://*.causal.app/*
@@ -61,16 +63,33 @@
 *://*.game155.com/*
 *://*.autotechint.com/*
 
-
-#shopping
+#shopping - fake shops, poor discount sites
 *://*.consumer.hotdeals.com/*
 *://*.bestbikeguide.co.uk/
 *://*.uifreebies.net/*
 *://*.rkrx.sneakerbar.shop/*
 *://*.ddaengshop.com/*
 *://*.gearsholic.co.uk/*
+*://*.bluelightdiscount.co.uk/*
+*://*.hotdeals.com/*
+*://*.kyracatlitter.co.uk/*
+*://*.thekennedygroup.co.uk/*
+*://*.groupefdj.co.uk/*
+*://*.chistmasdeals.co.uk/*
+*://*.charleepetsdeals.co.uk/*
+*://*.marianacattychoice.co.uk/*
+*://*.confidancecompany.co.uk/*
+*://*.applebutterexpress.com/*
+*://*.21cats.org/*
+*://*.hindiprocess.com/*
+*://*.world-today-news.com/*
+*://*.topweedkiller.com/*
+*://*.gardengotime.com/*
+*://moviecultists.com/*
+*://*.landscapergarden.com/*
+*://*.dfm9xhx6qo2ku.cloudfront.net/*
  
-#Spam
+#Spam -bad quality information
 *://*.interviewarea.com/*
 *://*.2022.co.id/*
 *://*.fluxdeconnaissances.com/*
@@ -107,32 +126,12 @@
 *://*.likeabosslearning.com/*
 *://*.zebrabi.com/*
 *://*.littlekitchenbigworld.com/*
-
-#fake stores
-*://*.kyracatlitter.co.uk/*
-*://*.thekennedygroup.co.uk/*
-*://*.groupefdj.co.uk/*
-*://*.chistmasdeals.co.uk/*
-*://*.charleepetsdeals.co.uk/*
-*://*.marianacattychoice.co.uk/*
-*://*.confidancecompany.co.uk/*
-*://*.applebutterexpress.com/*
-*://*.21cats.org/*
-*://*.hindiprocess.com/*
-*://*.world-today-news.com/*
-*://*.topweedkiller.com/*
-*://*.gardengotime.com/*
-*://moviecultists.com/*
-*://*.landscapergarden.com/*
-*://*.dfm9xhx6qo2ku.cloudfront.net/*
-
-#Personal
-*://*.attractiongym.com/*
+*://*.kordblog.com/*
+*://*.zerodollartips.com/*
+*://*.royconsulting.fr/*
 
 #unblocking
-#non-pointer
+#non-pointer - wordpress
 @*://*.wordpress.com/*
 
-#Sorting
-#certsimple
-#https://www.partitionwizard.com/ but an actual tool
+
