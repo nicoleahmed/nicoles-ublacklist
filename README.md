@@ -49,7 +49,7 @@ Most of these lists are maintained by individuals - so whilst they have not impa
 | RyuaNerin - stackoverflow copies | https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=RyuaNerin%20-%20stackoverflow%20copies&url=https%3A//raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt) |
 | Wdmpa content farms list | https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Wdmpa%20content%20farms%20list&url=https%3A//raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt) |
 | Whereelse - content farm | https://raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Whereelse%20-%20content%20farm&url=https%3A//raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt) |
-| ncaq - Content farms, tech, spam | https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=ncaq&url=https%3A//raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt) |
+
 
 
 
@@ -59,6 +59,7 @@ I don't use these filter lists- they may stop being updated or change. Feel free
 | **Name** | **URL** | **Chrome Link** |
 | --- | --- | --- |
 | Bitesizedlion - pinboards | https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-pinboards.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20pinboards&url=https%3A//raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-pinboards.txt) |
+| ncaq - Content farms, tech, spam. BUT BLOCKS important top level domains such as org.uk | https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=ncaq&url=https%3A//raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt) |
 | Freso - W3 schools | https://codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Freso%20-%20W3-schoolsurl=https%3A//codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt) |
 | Rjaus - ublacklist-all pinterest by Riley James | https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20ublacklist-all%20pinterest%20by%20Riley%20James&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt) |
 | Rjaus - yelp sites | https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20yelp%20sites&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt) |
