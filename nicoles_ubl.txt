@@ -1,9 +1,9 @@
 # Name        : Nicole's extra filters
-# Version     : 15
-# Date        : 8/5/24
+# Version     : 16
+# Date        : 10/06/24
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 135
+# Total lines : 141
 # Description : A mixed list to filter various spam and malicious sites out of search engine results. Some sites are UK-Centric.
 
 #Needs to be *://*.
@@ -49,6 +49,10 @@
 *://*.newsonlineincome.com/*
 *://*.certsimple.com/*
 *://*.silicophilic.com/*
+*://*.convertio.co/*
+*://*.filestar.com/*
+*://*.file-converter-online.com/*
+*://*.exceladept.com/*
 
 #bad info
 *://*.causal.app/*
@@ -129,9 +133,9 @@
 *://*.kordblog.com/*
 *://*.zerodollartips.com/*
 *://*.royconsulting.fr/*
+*://*.tdbo.org/*
+*://*.90creators.com/*
 
 #unblocking
 #non-pointer - wordpress
 @*://*.wordpress.com/*
-
-
