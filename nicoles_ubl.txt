@@ -1,9 +1,9 @@
 # Name        : Nicole's extra filters
-# Version     : 16
-# Date        : 10/06/24
+# Version     : 17
+# Date        : 02/01/25
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 141
+# Total lines : 142
 # Description : A mixed list to filter various spam and malicious sites out of search engine results. Some sites are UK-Centric.
 
 #Needs to be *://*.
@@ -53,6 +53,7 @@
 *://*.filestar.com/*
 *://*.file-converter-online.com/*
 *://*.exceladept.com/*
+*://*.supportprinter24.com/*
 
 #bad info
 *://*.causal.app/*
