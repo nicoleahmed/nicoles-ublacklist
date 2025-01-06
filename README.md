@@ -1,9 +1,10 @@
 # nicoles-ublacklist
 
 ## uBlacklist
-Blocks specific sites from appearing in search results by Google, Bing, Brave, Duckduckgo, Ecosia, Quant, SearX, Homepage, Yahoo! Japan, Yandex  
+Blocks specific sites from appearing in search results by Google, Bing, Brave, Duckduckgo, Ecosia, Quant, SearX, Startpage.com, Yahoo! Japan, Yandex  
 You can block sites from within search result pages or on sites themselves by clicking the toolbar icon.  
-You can synchronize rulesets across devices via cloud storage-  Google Drive and Dropbox are supported.  
+You can synchronize rulesets across devices via cloud storage-  Google Drive and Dropbox are supported.
+This can help to reduce spam and malicious results appearing in your searches.
 
 You can also subscribe to public rulesets. See tables below and these pages:  
       https://iorate.github.io/ublacklist/subscriptions  
@@ -25,7 +26,7 @@ No major sites are blocked by these lists but I can't guarantee that some minor 
 | **Name** | **URL** | **Chrome Link** |
 | --- | --- | --- |
 | Nicoles - spam | https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_ubl.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nicoles%20-%20spam&url=https%3A//raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_ubl.txt) |
-| Nicoles - master combined | https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nicoles%20-%20master%20combined&url=https%3A//raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt) |
+| DONT USE - Nicoles - master combined | https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nicoles%20-%20master%20combined&url=https%3A//raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt) |
 
 
 ## **Subscription lists I use**
@@ -181,3 +182,10 @@ I don't use these filter lists.
 | **Name** | **URL** | **Reason** |
 | --- | --- | --- |
 | NSDE- SpamBlacklist | https://raw.githubusercontent.com/nsde/spam-blacklist/main/spam-sites.txt | User closed github account |
+
+
+##Other search engine resources
+Seirdy has written a [great guide to search engines](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) which gives information and reviews of search engines. They also discuss why choosing a search engine wisely matters from privacy, conflicts of interest, and information diversity points of view.
+A useful [search engine map](https://www.searchenginemap.com/) which shows how search engines are linked by indexes (and how little choice we really have) created by Mojeek - but needs updating as of 6/1/25.
+[Search engine party](https://searchengine.party/) provides an overview of privacy and security features of search engines.
+Nicholas Ferrell's [guide to alternative search engines](https://thenewleafjournal.com/a-2021-list-of-alternative-search-engines-and-search-resources/).
