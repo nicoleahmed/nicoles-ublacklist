@@ -18,9 +18,9 @@ See [uBlacklist github page](https://github.com/iorate/uBlacklist)
 
 
 ## Sites which 'should' be blocked from search engines - but aren't on other subscription lists
-These are my personal lists  
+My personal lists 
 The first is a list of sites not caught by lists I subscribe to below. As I live in the UK, many of these sites will be United Kingdom domains.  
-The second is a combination list of all the lists below that has been deduplicated  (May 23: Need to fix the automation) 
+The second list is not maintained anymore -  is a combination list of all the lists below that has been deduplicated  (May 23: Need to fix the automation) 
 No major sites are blocked by these lists but I can't guarantee that some minor poor quality authentic sites don't get blocked  
 
 | **Name** | **URL** | **Chrome Link** |
@@ -29,43 +29,36 @@ No major sites are blocked by these lists but I can't guarantee that some minor 
 | DONT USE - Nicoles - master combined | https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nicoles%20-%20master%20combined&url=https%3A//raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles_masterUBL.txt) |
 
 
-## **Subscription lists I use**
+## ** General Spam and Malware - Subscription lists I use**
+These are popular and broad-ranging lists.
 Most of these lists are maintained by individuals - so whilst they have not impacted on my web browsing experience, you should always check the lists yourself first. If you are more concerned about quickly getting rid of lots of low quality content subscribe away.
 
 | **Name** | **URL** | **Chrome Link** |
 | --- | --- | --- |
 | Anarcho - fake pdf sites | https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Anarcho%20-%20fake%20pdf%20sites&url=https%3A//gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/output/uBlacklist.txt) |
-| Arosh - github translation | https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Arosh%20-%20github%20translation&url=https%3A//raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt) |
-| Arosh - spam stackoverflow | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Arosh%20-%20spam%20stackoverflow&url=https%3A//raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt) |
 | Bitesizedlion - fake pngs | https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-fakepng.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20fake%20pngs&url=https%3A//raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-fakepng.txt) |
-| Bitesizedlion - spam | https://github.com/BitesizedLion/various-lists/raw/main/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20spam&url=https%3A//github.com/BitesizedLion/various-lists/raw/main/ublacklist.txt) |
-| fakepngs | https://pastebin.com/raw/yZeXbcfG | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=fakepngs&url=https%3A//pastebin.com/raw/yZeXbcfG) |
+| Bitesizedlion - spam | https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20Spam&url=https%3A//raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist.txt) |
 | Franga - fake aliexpress | https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Franga%20-%20fake%20aliexpress&url=https%3A//raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt) |
 | HO-0520-IT- malicious sites | https://raw.githubusercontent.com/HO-0520-IT/uBlacklist-malicious-sites/master/list.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=HO-0520-IT-%20malicious%20sites&url=https%3A//raw.githubusercontent.com/HO-0520-IT/uBlacklist-malicious-sites/master/list.txt) |
-| Ite Usagi - AI | https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=IteUsagi%20-%20AI&url=https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt) |
 | levitation - aliexpress fake sites | https://raw.githubusercontent.com/levitation-opensource/aliexpress-fake-sites/main/domains_uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=levitation%20-%20aliexpress%20fake%20sites&url=https%3A//raw.githubusercontent.com/levitation-opensource/aliexpress-fake-sites/main/domains_uBlacklist.txt) |
 | nonPointer (wordpress filter removed in my personal list) | https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=nonPointer&url=https%3A//raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt) |
 | Nota Inutilis - Super SEO Spam Suppressor | https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Super%20SEO%20Spam%20Suppressor&url=https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/main/ublacklist.txt) |
-| Proudust -corporate game wikis and translations | https://raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Proudust%20-corporate%20game%20wikis%20and%20translations&url=https%3A//raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt) |
-| RyuaNerin - stackoverflow copies | https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=RyuaNerin%20-%20stackoverflow%20copies&url=https%3A//raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt) |
 | Wdmpa content farms list | https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Wdmpa%20content%20farms%20list&url=https%3A//raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt) |
 | Whereelse - content farm | https://raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Whereelse%20-%20content%20farm&url=https%3A//raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt) |
 
 
 
 
-## **Subscription lists for specific sites**
+## **Subscription lists for specific sites and usages**
 I don't use these filter lists- they may stop being updated or change. Feel free to create an issue for any comments.
 
 | **Name** | **URL** | **Chrome Link** |
 | --- | --- | --- |
-| Bitesizedlion - pinboards | https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-pinboards.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20pinboards&url=https%3A//raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-pinboards.txt) |
+| Bitesizedlion - pinboards (pinterest,flipboard etc) | https://raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-pinboards.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Bitesizedlion%20-%20pinboards&url=https%3A//raw.githubusercontent.com/BitesizedLion/various-lists/main/ublacklist-pinboards.txt) |
 | ncaq - Content farms, tech, spam | https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=ncaq&url=https%3A//raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt) |
-| Freso - W3 schools | https://codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Freso%20-%20W3-schools&url=https%3A//codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt) |
 | Peter Lowe - Ad and tracking servers | https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0 | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Peter%20Lowe%20-%20Ad-tracking-servers&url=https%3A%2F%2Fpgl.yoyo.org%2Fas%2Fserverlist.php%3Fhostformat%3Dplain%26mimetype%3Dplaintext%26prepend%3D*%3A%2F%2F*.%26append%3D%2F*%26showintro%3D0) |
 | Rjaus - ublacklist-all pinterest by Riley James | https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20ublacklist-all%20pinterest%20by%20Riley%20James&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt) |
 | Rjaus - yelp sites | https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Rjaus%20-%20yelp%20sites&url=https%3A//raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt) |
-| Stopmodreposts | https://api.stopmodreposts.org/minecraft/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Stopmodreposts&url=https%3A//api.stopmodreposts.org/minecraft/ublacklist.txt) |
 | Dejavu Moe - Small Spam list | https://raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=DejavuMoe%20-%20Spam&url=https%3A//raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/uBlacklist.txt) |
 | Entr0pia - No other search engines in Google results | https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Entr0pia%20-%20other%20search%20engines%20in%20Google&url=https%3A//raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt) |
 | al3eex - major sites - news, shopping, "propaganda" | https://raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Salfum%20-%20Tech%20Spam&url=https%3A//raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt) |
@@ -74,6 +67,7 @@ I don't use these filter lists- they may stop being updated or change. Feel free
 | Nyeusr - Anti Apple group | https://github.com/NyeUsr/Blacklist/raw/main/uBlacklist/Apple.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nyeusr%20-%20Anti%20Apple&url=https%3A//github.com/NyeUsr/Blacklist/raw/main/uBlacklist/Apple.txt) |
 | Nyeusr - Anti Facebook group | https://github.com/NyeUsr/Blacklist/raw/main/uBlacklist/Facebook.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nyeusr%20-%20Anti%20Facebook&url=https%3A//github.com/NyeUsr/Blacklist/raw/main/uBlacklist/Facebook.txt) |
 | Nyeusr - Anti Microsoft group | https://github.com/NyeUsr/Blacklist/raw/main/uBlacklist/Microsoft.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nyeusr%20-%20Anti%20Microsoft&url=https%3A//github.com/NyeUsr/Blacklist/raw/main/uBlacklist/Microsoft.txt) |
+
 
 See more NyeUsr block lists [here](https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist)
 
@@ -84,6 +78,17 @@ I don't use these filter lists.
 | LayLavish - Huge AI Art list | https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=LayLavish%20-%20AI-Art&url=https%3A//raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt) |
 | PrincessAKira - AI Art | https://raw.githubusercontent.com/PrincessAkira/ublacklist-ai/main/ublacklist-ai.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=PrincessAkira%20-%20AI-Art&url=https%3A//raw.githubusercontent.com/PrincessAkira/ublacklist-ai/main/ublacklist-ai.txt) |
 | Ranmaru22- AI art | https://codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/raw/branch/main/list.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Ranmaru22%20-%20AI-Art&url=https%3A//codeberg.org/ranmaru22/ublacklist-anti-ai-art-subscription/raw/branch/main/list.txt) |
+
+## **Tech / Software / Game spam and malware sites**
+| **Name** | **URL** | **Chrome Link** |
+| --- | --- | --- |
+| Arosh - github translation | https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Arosh%20-%20github%20translation&url=https%3A//raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt) |
+| Arosh - spam stackoverflow | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Arosh%20-%20spam%20stackoverflow&url=https%3A//raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt) |
+| Freso - W3 schools | https://codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Freso%20-%20W3-schools&url=https%3A//codeberg.org/Freso/ublacklist-w3schools/raw/branch/main/ublacklist-w3schools.txt) |
+| Ngoomie - Suspicious tech download sites (blocks some popular sites so check)| https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Ngoomie%20-%20Suspicious%20Tech%20Downloads&url=https%3A//raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt) |
+| Proudust - bad game wikis and tech info | https://raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Proudust%20-%20Bad%20Game%20Wikis%20and%20Tech%20Info&url=https%3A//raw.githubusercontent.com/proudust/uBlacklist-Subscription/master/blacklist.txt) |
+| RyuaNerin - stackoverflow copies | https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=RyuaNerin%20-%20stackoverflow%20copies&url=https%3A//raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt) |
+| Stopmodreposts | https://api.stopmodreposts.org/minecraft/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Stopmodreposts&url=https%3A//api.stopmodreposts.org/minecraft/ublacklist.txt) |
 
 
 
@@ -156,7 +161,7 @@ I don't use these filter lists.
 | **Name** | **URL** | **Chrome Link** |
 | --- | --- | --- |
 | Salfum - Tech Spam | https://raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Salfum%20-%20Tech%20Spam&url=https%3A//raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt) |
-| xxkfqz - Content farms | https://raw.githubusercontent.com/salfum/uBlacklist-subscription-for-programmers/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=xxkfqz%20-%20Content%20farms&url=https%3A//raw.githubusercontent.com/xxkfqz/ublacklist-nra/master/ublacklist-nra.txt) |
+| xxkfqz - Content farms | https://raw.githubusercontent.com/xxkfqz/ublacklist-nra/master/ublacklist-nra.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=xxkfqz%20-%20Content%20farms&url=https%3A//raw.githubusercontent.com/xxkfqz/ublacklist-nra/master/ublacklist-nra.txt) |
 
 
 
@@ -182,10 +187,14 @@ I don't use these filter lists.
 | **Name** | **URL** | **Reason** |
 | --- | --- | --- |
 | NSDE- SpamBlacklist | https://raw.githubusercontent.com/nsde/spam-blacklist/main/spam-sites.txt | User closed github account |
+| Ite Usagi - AI | https://raw.githubusercontent.com/ite-usagi/ublacklist-noai/main/uBlacklist.txt | Archived as merged into https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist |
 
 
 ## Other search engine resources
 Seirdy has written a [great guide to search engines](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) which gives information and reviews of search engines. They also discuss why choosing a search engine wisely matters from privacy, conflicts of interest, and information diversity points of view.
+
 A useful [search engine map](https://www.searchenginemap.com/) which shows how search engines are linked by indexes (and how little choice we really have) created by Mojeek - but needs updating as of 6/1/25.
+
 [Search engine party](https://searchengine.party/) provides an overview of privacy and security features of search engines.
+
 Nicholas Ferrell's [guide to alternative search engines](https://thenewleafjournal.com/a-2021-list-of-alternative-search-engines-and-search-resources/).
