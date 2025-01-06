@@ -184,7 +184,7 @@ I don't use these filter lists.
 | NSDE- SpamBlacklist | https://raw.githubusercontent.com/nsde/spam-blacklist/main/spam-sites.txt | User closed github account |
 
 
-##Other search engine resources
+## Other search engine resources
 Seirdy has written a [great guide to search engines](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) which gives information and reviews of search engines. They also discuss why choosing a search engine wisely matters from privacy, conflicts of interest, and information diversity points of view.
 A useful [search engine map](https://www.searchenginemap.com/) which shows how search engines are linked by indexes (and how little choice we really have) created by Mojeek - but needs updating as of 6/1/25.
 [Search engine party](https://searchengine.party/) provides an overview of privacy and security features of search engines.
