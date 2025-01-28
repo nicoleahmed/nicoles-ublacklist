@@ -1,25 +1,25 @@
 # nicoles-ublacklist
 
 ## uBlacklist
-Blocks specific sites from appearing in search results by Google, Bing, Brave, Duckduckgo, Ecosia, Quant, SearX, Startpage.com, Yahoo! Japan, Yandex  
-You can block sites from within search result pages or on sites themselves by clicking the toolbar icon.  
+Blocks specific sites from appearing in search results by Google, Bing, Brave, Duckduckgo, Ecosia, Quant, SearX, Startpage.com, Yahoo! Japan, Yandex
+You can block sites from within search result pages or on sites themselves by clicking the toolbar icon.
 You can synchronize rulesets across devices via cloud storage-  Google Drive and Dropbox are supported.
 This can help to reduce spam and malicious results appearing in your searches.
 
-You can also subscribe to public rulesets. See tables below and these pages:  
-      https://iorate.github.io/ublacklist/subscriptions  
-      https://github.com/rjaus/awesome-ublacklist  
-      https://github.com/eallion/uBlacklist-subscription-compilation (Chinese compilation and master list)  
+You can also subscribe to public rulesets. See tables below and these pages:
+      https://iorate.github.io/ublacklist/subscriptions
+      https://github.com/rjaus/awesome-ublacklist
+      https://github.com/eallion/uBlacklist-subscription-compilation (Chinese compilation and master list)
 
 See [uBlacklist github page](https://github.com/iorate/uBlacklist)
 
-### Install uBlacklist      
+### Install uBlacklist
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) / [App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
 
 
 ## Sites which 'should' be blocked from search engines - but aren't on other subscription lists - UK focus
-My personal list of sites not caught by lists I subscribe to below. As I live in the UK, many of these sites will be United Kingdom domains.  
-No major sites are blocked by these lists but I can't guarantee that some minor poor quality authentic sites don't get blocked  
+My personal list of sites not caught by lists I subscribe to below. As I live in the UK, many of these sites will be United Kingdom domains.
+No major sites are blocked by these lists but I can't guarantee that some minor poor quality authentic sites don't get blocked
 
 | **Name** | **URL** | **Chrome Link** |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Most of these lists are maintained by individuals - so whilst they have not impa
 | [levitation - aliexpress fake sites](https://github.com/levitation-opensource/aliexpress-fake-sites) | https://raw.githubusercontent.com/levitation-opensource/aliexpress-fake-sites/main/domains_uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=levitation%20-%20aliexpress%20fake%20sites&url=https%3A//raw.githubusercontent.com/levitation-opensource/aliexpress-fake-sites/main/domains_uBlacklist.txt)
 | [ncaq - Content farms, tech, spam](https://github.com/ncaq/uBlacklistRule) | https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=ncaq%20-%20Content%20farms,%20tech,%20spam&url=https%3A//raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt)
 | [nonPointer (wordpress filter removed in my personal list)](https://github.com/nonPointer/uBlacklist-Subscription) | https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=nonPointer%20(wordpress%20filter%20removed%20in%20my%20personal%20list)&url=https%3A//raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt)
-| [Nota Inutilis - Super SEO Spam Suppressor](https://github.com/nonPointer/uBlacklist-Subscription) | https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nota%20Inutilis%20-%20Super%20SEO%20Spam%20Suppressor&url=https%3A//raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt)
+| [Nota Inutilis - Super SEO Spam Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) | https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Nota%20Inutilis%20-%20Super%20SEO%20Spam%20Suppressor&url=https%3A//raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt)
 | [Wdmpa content farms list](https://github.com/wdmpa/content-farm-list) | https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Wdmpa%20content%20farms%20list&url=https%3A//raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt)
 | [Whereelse - content farm](https://github.com/wherelse/content-farm-blacklist) | https://raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt | [Subscribe - Chrome](https://iorate.github.io/ublacklist/subscribe?name=Whereelse%20-%20content%20farm&url=https%3A//raw.githubusercontent.com/wherelse/content-farm-blacklist/main/blacklist.txt)
 
