@@ -1,15 +1,20 @@
 # Name        : Nicole's extra filters
-# Version     : 17
-# Date        : 02/01/25
+# Version     : 18
+# Date        : 13/05/25
 # Repo        : https://github.com/nicoleahmed/nicoles-ublacklist
 # File        : https://raw.githubusercontent.com/nicoleahmed/nicoles-ublacklist/main/nicoles-ubl.txt
-# Total lines : 142
+# Total lines : 155
 # Description : A mixed list to filter various spam and malicious sites out of search engine results. Some sites are UK-Centric.
 
 #Needs to be *://*.
 #So first replace *://www. With *://
 #Then replace *:// with *://*.
 #Or option for whole site blocking in ublacklist
+
+#unblocking
+#non-pointer - wordpress and google sites
+@*://*.wordpress.com/*
+@*://sites.google.com/*
 
 # tech
 *://*.nstec.com/*
@@ -54,6 +59,17 @@
 *://*.file-converter-online.com/*
 *://*.exceladept.com/*
 *://*.supportprinter24.com/*
+*://*.supportyourtech.com/*
+*://*.ms.codes/*
+*://*.ytbdownload.com/*
+*://*.exceldemy.com/*
+*://*.solveyourtech.com/*
+*://*.live2tech.com/*
+*://*.dashboardsexcel.com/*
+*://*.insight7.io/*
+*://*.thebricks.com/*
+*://*.technixupdate.com/*
+
 
 #bad info
 *://*.causal.app/*
@@ -136,7 +152,4 @@
 *://*.royconsulting.fr/*
 *://*.tdbo.org/*
 *://*.90creators.com/*
-
-#unblocking
-#non-pointer - wordpress
-@*://*.wordpress.com/*
+*://*.fastercapital.com/*
